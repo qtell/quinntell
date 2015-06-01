@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="858744d4-ab68-436e-9fcc-942912207d00" name="Default" comment="QT - GA">
+    <list default="true" id="858744d4-ab68-436e-9fcc-942912207d00" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -27,12 +27,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9364407">
-              <caret line="227" column="17" selection-start-line="227" selection-start-column="17" selection-end-line="227" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.4279661">
+              <caret line="156" column="47" selection-start-line="156" selection-start-column="47" selection-end-line="156" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#article#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#article#4;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1433131881000" expanded="true" signature="704:720" placeholder="..." />
+                <marker date="1433133270000" expanded="true" signature="724:740" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -552,56 +552,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quinntell" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quinntell" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quinntell" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quinntell" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quinntell" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quinntell" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -711,14 +661,26 @@
       <option name="project" value="LOCAL" />
       <updated>1433131694948</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="QT - GA">
+      <created>1433131915943</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1433131915943</updated>
+    </task>
+    <task id="LOCAL-00006" summary="remove download as pdf">
+      <created>1433132085690</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1433132085690</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290653" sideWeight="0.49753347" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290653" sideWeight="0.49753347" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.48907682" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -754,7 +716,8 @@
     <MESSAGE value="QT - ignore .idea" />
     <MESSAGE value="QT - readme" />
     <MESSAGE value="QT - GA" />
-    <option name="LAST_COMMIT_MESSAGE" value="QT - GA" />
+    <MESSAGE value="remove download as pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove download as pdf" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -768,7 +731,7 @@
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#article#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#article#4;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1433131881000" expanded="true" signature="704:720" placeholder="..." />
+            <marker date="1433133270000" expanded="true" signature="724:740" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1048,7 +1011,7 @@
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#article#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#article#4;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1433131881000" expanded="true" signature="704:720" placeholder="..." />
+            <marker date="1433133270000" expanded="true" signature="724:740" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1299,7 +1262,7 @@
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#article#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#article#4;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1433131881000" expanded="true" signature="704:720" placeholder="..." />
+            <marker date="1433133270000" expanded="true" signature="724:740" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1550,7 +1513,7 @@
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#article#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#article#4;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1433131881000" expanded="true" signature="704:720" placeholder="..." />
+            <marker date="1433133270000" expanded="true" signature="724:740" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1854,12 +1817,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9364407">
-          <caret line="227" column="17" selection-start-line="227" selection-start-column="17" selection-end-line="227" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.4279661">
+          <caret line="156" column="47" selection-start-line="156" selection-start-column="47" selection-end-line="156" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#article#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#article#4;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1433131881000" expanded="true" signature="704:720" placeholder="..." />
+            <marker date="1433133270000" expanded="true" signature="724:740" placeholder="..." />
           </folding>
         </state>
       </provider>
