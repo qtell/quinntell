@@ -1,3 +1,3 @@
 #Quinn Tell
 
-Thanks to Uvis Grinfelds (prettyspoon.com) for the template!
+Thanks to Uvis Grinfelds for the template!
