@@ -97,7 +97,7 @@ strong {
 }
 p {
   text-indent: 22px;
-  font-size: 16px;
+  font-size: 14px;
   margin: 0px;
 }
 .welcome {
@@ -262,6 +262,9 @@ ul.icons li .icon-large:before {
   /* 1.5 increased font size for icon-large * 1.25 width */
 
   vertical-align: initial;
+}
+blockquote {
+    border-left: 1px solid #eeeeee;
 }
 /*  Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
     readers do not read off random characters that represent icons */
